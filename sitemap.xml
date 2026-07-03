@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cosmos0111-cmyk.github.io/bp-kr-pbn-sr-023/</loc>
-    <lastmod>2026-06-16</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://cosmos0111-cmyk.github.io/bp-kr-pbn-sr-023/about.html</loc>
-    <lastmod>2026-06-16</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://cosmos0111-cmyk.github.io/bp-kr-pbn-sr-023/blog.html</loc>
-    <lastmod>2026-06-16</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -73,6 +73,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cosmos0111-cmyk.github.io/bp-kr-pbn-sr-023/posts/review-002-1upmo0r.html</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://cosmos0111-cmyk.github.io/bp-kr-pbn-sr-023/posts/review-002-1vqv41v.html</loc>
     <lastmod>2026-06-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -85,8 +91,14 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cosmos0111-cmyk.github.io/bp-kr-pbn-sr-023/posts/t3link-001-gbzelg.html</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://cosmos0111-cmyk.github.io/bp-kr-pbn-sr-023/feed.xml</loc>
-    <lastmod>2026-06-16</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
